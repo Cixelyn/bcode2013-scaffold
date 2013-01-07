@@ -19,6 +19,7 @@ battlecode/common/RobotController/canMove			25	true
 battlecode/common/RobotController/canSenseObject		15	true
 battlecode/common/RobotController/canSenseSquare		15	true
 battlecode/common/RobotController/captureEncampment		25	true
+battlecode/common/RobotController/senseCaptureCost		25	true
 battlecode/common/RobotController/checkResearchProgress		15	true
 battlecode/common/RobotController/defuseMine			25	true
 battlecode/common/RobotController/getControlBits		0	true
@@ -41,6 +42,7 @@ battlecode/common/RobotController/senseNearbyGameObjects	100	true
 battlecode/common/RobotController/senseObjectAtLocation		25	true
 battlecode/common/RobotController/senseRobotInfo		25	true
 battlecode/common/RobotController/senseTerrainTile		10	true
+battlecode/common/RobotController/senseEncampment		25	true
 battlecode/common/RobotController/setIndicatorString		0	true
 battlecode/common/RobotController/setTeamMemory			15	true
 battlecode/common/RobotController/spawn				25	true
