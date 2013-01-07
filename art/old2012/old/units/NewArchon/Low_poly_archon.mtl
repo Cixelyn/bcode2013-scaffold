@@ -1,0 +1,22 @@
+newmtl lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd villain_1.jpg
+bump villain_1.jpg -bm 0.043
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks villain_1.jpg
+Ns 18.00
+newmtl lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd villainWing.jpg
+bump villainWing.jpg -bm 0.043
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks villainWing.jpg
+Ns 18.00

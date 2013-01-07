@@ -1,0 +1,105 @@
+newmtl CPU
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cpu.jpg
+Ni 1.00
+newmtl armor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd armorSheild.png
+Ni 1.00
+newmtl battery
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd battery.jpg
+Ni 1.00
+newmtl composite
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sci-fi2-1.jpg
+Ni 1.00
+newmtl floor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd groundtexture200517smzb9.jpg
+Ni 1.00
+newmtl floor2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd floor_texture-200501-SM.jpg
+Ni 1.00
+newmtl forcefield
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd forcefield.png
+Ni 1.00
+newmtl forcefield1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd forcefield2.png
+Ni 1.00
+newmtl hardened
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hardenedarmor.jpg
+Ni 1.00
+newmtl iron
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd iron.jpg
+Ni 1.00
+newmtl lens
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lens.jpg
+Ni 1.00
+newmtl machinery
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd unreal_textures-200027-SM.jpg
+Ni 1.00
+newmtl plateWall1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd scifigroundtexture200507smju3.jpg
+Ni 1.00
+newmtl platewall2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd walltexture200508smam2.jpg
+Ni 1.00
+newmtl sockets
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sockets.jpg
+Ni 1.00
