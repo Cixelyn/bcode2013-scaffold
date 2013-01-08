@@ -2,14 +2,13 @@
 <classpath>
 	<classpathentry kind="src" output="bin" path="teams"/>
 	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
-	<classpathentry kind="con" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/bin"/>
-	<classpathentry kind="con" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/bin/examplefuncsplayer"/>
-	<classpathentry kind="con" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/lib"/>
-	<classpathentry kind="con" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/teams"/>
-	<classpathentry kind="con" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/teams/examplefuncsplayer"/>
-	<classpathentry kind="lib" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/lib/battlecode-client.jar"/>
-	<classpathentry kind="lib" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/lib/battlecode-player.jar"/>
-	<classpathentry kind="lib" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/lib/battlecode-server.jar"/>
-	<classpathentry kind="lib" path="/Users/coryli/Code/eclipse/bcode2013-scaffold/lib/jogl.all.jar"/>
+	<classpathentry kind="con" path="bin"/>
+	<classpathentry kind="con" path="lib"/>
+	<classpathentry kind="con" path="teams"/>
+	<classpathentry kind="con" path="teams/examplefuncsplayer"/>
+	<classpathentry kind="lib" path="lib/battlecode-client.jar"/>
+	<classpathentry kind="lib" path="lib/battlecode-player.jar"/>
+	<classpathentry kind="lib" path="lib/battlecode-server.jar"/>
+	<classpathentry kind="lib" path="lib/jogl.all.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
