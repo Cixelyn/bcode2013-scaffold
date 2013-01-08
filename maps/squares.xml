@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="70" width="70">
+    <game seed="1694865" rounds="2000"/>
+    <symbols>
+        <symbol terrain="LAND" type="TERRAIN" character="."/>
+        <symbol team="NEUTRAL" type="ENCAMPMENT" character="@"/>
+        <symbol team="A" type="HQ" character="a"/>
+        <symbol team="B" type="HQ" character="b"/>
+        <symbol team="NEUTRAL" type="MINE" character="o"/>
+    </symbols>
+    <data>
+<![CDATA[
+...ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+.a..................................................................@o
+...ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o
+o.oo..............................................................@o.o
+o.o.@............................................................@.o.o
+o.o..oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo..o.o
+o.o..o@........................................................@o..o.o
+o.o..o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o..o.o
+o.o..o.o@....................................................@o.o..o.o
+o.o..o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o..o.o
+o.o..o.o.o@................................................@o.o.o..o.o
+o.o..o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o..o.o
+o.o..o.o.o.o@............................................@o.o.o.o..o.o
+o.o..o.o.o.o.oooooooooooooooooooooooooooooooooooooooooooo.o.o.o.o..o.o
+o.o..o.o.o.o.o@........................................@o.o.o.o.o..o.o
+o.o..o.o.o.o.o.oooooooooooooooooooooooooooooooooooooooo.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o@....................................@o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.oooooooooooooooooooooooooooooooooooo.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o@................................@o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.oooooooooooooooooooooooooooooooo.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o@............................@o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.oooooooooooooooooooooooooooo.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o@........................@o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.oooooooooooooooooooooooo.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o@....................@o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.oooooooooooooooooooo.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o@................@o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.oooooooooooooooo.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o@............@o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.oooooooooooo.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o@........@o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.oooooooo.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.o@....@o.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.o.oooo.o.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.o.o@@o.o.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.o.o@@o.o.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.o.oooo.o.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.o@....@o.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o.oooooooo.o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.o@........@o.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o.oooooooooooo.o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.o@............@o.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o.oooooooooooooooo.o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.o@................@o.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o.oooooooooooooooooooo.o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.o@....................@o.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o.oooooooooooooooooooooooo.o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.o@........................@o.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o.oooooooooooooooooooooooooooo.o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.o@............................@o.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o.oooooooooooooooooooooooooooooooo.o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.o@................................@o.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o.oooooooooooooooooooooooooooooooooooo.o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.o@....................................@o.o.o.o.o.o..o.o
+o.o..o.o.o.o.o.oooooooooooooooooooooooooooooooooooooooo.o.o.o.o.o..o.o
+o.o..o.o.o.o.o@........................................@o.o.o.o.o..o.o
+o.o..o.o.o.o.oooooooooooooooooooooooooooooooooooooooooooo.o.o.o.o..o.o
+o.o..o.o.o.o@............................................@o.o.o.o..o.o
+o.o..o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o..o.o
+o.o..o.o.o@................................................@o.o.o..o.o
+o.o..o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o..o.o
+o.o..o.o@....................................................@o.o..o.o
+o.o..o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o..o.o
+o.o..o@........................................................@o..o.o
+o.o..oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo..o.o
+o.o.@............................................................@.o.o
+o.o@..............................................................oo.o
+o.ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo...
+o@..................................................................b.
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo...
+]]>
+    </data>
+</map>
