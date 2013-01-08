@@ -7,7 +7,11 @@
 	<classpathentry kind="con" path="teams/examplefuncsplayer"/>
 	<classpathentry kind="lib" path="lib/battlecode-client.jar"/>
 	<classpathentry kind="lib" path="lib/battlecode-player.jar"/>
-	<classpathentry kind="lib" path="lib/battlecode-server.jar"/>
+	<classpathentry kind="lib" path="lib/battlecode-server.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://s3.amazonaws.com/battlecode-releases-2013/javadoc/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="lib/jogl.all.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
