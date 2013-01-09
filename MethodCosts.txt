@@ -38,9 +38,11 @@ battlecode/common/RobotController/senseEncampmentSquares	100	true
 battlecode/common/RobotController/senseEnemyHQLocation		10	true
 battlecode/common/RobotController/senseEnemyNukeHalfDone  50	true
 battlecode/common/RobotController/senseHQLocation		10 	true
+battlecode/common/RobotController/senseLocationOf		25	true
 battlecode/common/RobotController/senseMine			10	true
 battlecode/common/RobotController/senseMineLocations	100	true
 battlecode/common/RobotController/senseNearbyGameObjects	100	true
+battlecode/common/RobotController/senseNonAlliedMineLocations	100	true
 battlecode/common/RobotController/senseObjectAtLocation		25	true
 battlecode/common/RobotController/senseRobotInfo		25	true
 battlecode/common/RobotController/senseTerrainTile		10	true
