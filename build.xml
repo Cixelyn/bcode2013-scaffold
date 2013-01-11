@@ -79,6 +79,20 @@
     </java>
   </target> 
 
+  <target name="runmatch" depends="build">
+    <java 
+     classpathref="classpath.run"
+     fork="yes"
+     classname="battlecode.client.Main">
+      <jvmarg value="-Dapple.awt.graphics.UseQuartz=true"/>
+      <jvmarg value="-Dbc.server.map-path=${path.maps}"/>
+      <jvmarg value="-Dbc.client.match=${match}"/>
+      <jvmarg value="-Xmx256m"/> 
+	  <jvmarg value="-Djava.library.path=${path.lib}" />
+      <arg line="-c bc.conf"/>
+    </java>
+  </target> 
+
   <target name="serve" depends="build">
     <java
      classpathref="classpath.run"
