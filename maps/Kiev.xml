@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="55" width="55">
+    <game seed="55" rounds="2000"/>
+    <symbols>
+        <symbol terrain="LAND" type="TERRAIN" character="."/>
+        <symbol team="NEUTRAL" type="ENCAMPMENT" character="#"/>
+        <symbol team="A" type="HQ" character="a"/>
+        <symbol team="B" type="HQ" character="A"/>
+        <symbol team="NEUTRAL" type="MINE" character="o"/>
+    </symbols>
+    <data>
+<![CDATA[
+oooooooooooooooooooooooooooooooooooooooooooooo....ooooo
+o...ooooooooooooooooooooooooooooooooooooooo........oooo
+o.oooooooooo.#..oooooooooooooooooooooooooo...o......ooo
+o...ooooooo..#...ooooooooooooooooooooooo.o....o......oo
+ooo.oooo.oo.....oooooooooooooooooooooooooo.....##..o..o
+o...ooo.o.oo.o......ooooooooooooooooo.ooo.........oo...
+oooooooo..o....o.....oooooooooooooooo.ooo...ooo....o...
+ooooooooo...o..o..oo..oooo.....ooooo.ooo.o#....oooo....
+oooooooo.o.....o.oo....ooo...#..oooooooo.o.......o...o.
+ooooooo......ooo..#o....o....#.oooooooo....o...o.o...#.
+ooooooo...o..oooo.#..o.......#.ooooooo..o....o.oooo..#.
+ooooooo##..oo.oo..#........o.#..ooooo.#.....o..ooo..o#.
+oooooo.....o.o.o.....o......o#..o.oooo....o....o.....o.
+ooooo..o..o..ooo..o.....o...o...ooooooo.o.....oo#.....o
+oooooo..oo.....o..o......oo.o.o.ooooooo.o..o.o.......oo
+ooooooo.o...o.o..o..oo...oo...o..ooooooo...ooo.a.o..ooo
+ooooo.........ooo....o..oo.o....ooooo..o...ooo....ooooo
+ooooo...o..o..o..o...o.o.o..o....oooo..o.oooo.o.o.ooooo
+oooooo...oo.o.o...o...ooooo....o.oooo..o..oo....o.ooooo
+ooooo.o...o..oo.....ooo.oo....o.ooooo..o.oo.....o.ooooo
+ooooo....oo....o...ooo.o..##.o..ooooooo...o..o.o.oooooo
+oooooo...o.##.oo.ooo..o..o..oo.ooooo.oo#.......o.oooooo
+ooooooo......oo.ooo.o..oo.oo..oooooooo......o..o.oooooo
+ooooooooo.......o...o..oo.oo....oooooo.....ooo..ooooooo
+oooooooooo...o....o.o.ooooo..o.oooooo...o..oo....##oooo
+ooooooooo.o..o....oooooooo.ooooooooooo..oooo....ooooooo
+oooooooo........o..oooooo..o.ooooooo.....ooo....ooooooo
+ooooooo.....oo.....oo.ooo.....ooo.oo.....oo.....ooooooo
+ooooooo....ooo.....ooooooo.o..oooooo..o........oooooooo
+ooooooo....oooo..ooooooooooo.oooooooo....o..o.ooooooooo
+oooo##....oo..o...oooooo.o..ooooo.o.o....o...oooooooooo
+ooooooo..ooo.....oooooo....oo.oo..o...o.......ooooooooo
+oooooo.o..o......oooooooo..oo.oo..o.ooo.oo......ooooooo
+oooooo.o.......#oo.ooooo.oo..o..o..ooo.oo.##.o...oooooo
+oooooo.o.o..o...ooooooo..o.##..o.ooo...o....oo....ooooo
+ooooo.o.....oo.o..ooooo.o....oo.ooo.....oo..o...o.ooooo
+ooooo.o....oo..o..oooo.o....ooooo...o...o.o.oo...oooooo
+ooooo.o.o.oooo.o..oooo....o..o.o.o...o..o..o..o...ooooo
+ooooo....ooo...o..ooooo....o.oo..o....ooo.........ooooo
+ooo..o.A.ooo...ooooooo..o...oo...oo..o..o.o...o.ooooooo
+oo.......o.o..o.ooooooo.o.o.oo......o..o.....oo..oooooo
+o.....#oo.....o.ooooooo...o...o.....o..ooo..o..o..ooooo
+.o.....o....o....oooo.o..#o......o.....o.o.o.....oooooo
+.#o..ooo..o.....#.ooooo..#.o........#..oo.oo..##ooooooo
+.#..oooo.o....o..ooooooo.#.......o..#.oooo..o...ooooooo
+.#...o.o...o....oooooooo.#....o....o#..ooo......ooooooo
+.o...o.......o.oooooooo..#...ooo....oo.o.....o.oooooooo
+....oooo....#o.ooo.ooooo.....oooo..oo..o..o...ooooooooo
+...o....ooo...ooo.oooooooooooooooo.....o....o..oooooooo
+...oo.........ooo.ooooooooooooooooo......o.oo.o.ooo...o
+o..o..##.....oooooooooooooooooooooooooo.....oo.oooo.ooo
+oo......o....o.ooooooooooooooooooooooo...#..ooooooo...o
+ooo......o...oooooooooooooooooooooooooo..#.oooooooooo.o
+oooo........ooooooooooooooooooooooooooooooooooooooo...o
+ooooo....oooooooooooooooooooooooooooooooooooooooooooooo
+]]>
+    </data>
+</map>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="35" width="50">
+    <game seed="10785942" rounds="2000"/>
+    <symbols>
+        <symbol terrain="LAND" type="TERRAIN" character="."/>
+        <symbol team="NEUTRAL" type="MINE" character="o"/>
+        <symbol team="NEUTRAL" type="ENCAMPMENT" character="#"/>
+        <symbol team="A" type="HQ" character="A"/>
+        <symbol team="B" type="HQ" character="a"/>
+    </symbols>
+    <data>
+<![CDATA[
+ooooooooooooooooooooo..oooo..ooooooooooooooooooooo
+o..ooooooooooooooo#o..........o#ooooooooooooooo..o
+o###oooo#oooooooo................oooooooo#oooo###o
+o#.ooooo.oooooooo..o..#....#..o..oooooooo.ooooo.#o
+ooooooooooooooooooooo........ooooooooooooooooooooo
+ooooooooooooooooooooooo....ooooooooooooooooooooooo
+ooooooooooooooo#oooooooo..oooooooo#ooooooooooooooo
+oooooooooooooooooooooooo##oooooooooooooooooooooooo
+oooooooo..oooooooooooooooooooooooooooooo..oooooooo
+ooooooo....oo....oooooooooooooooo....oo....ooooooo
+o.ooooo..#.o....oooooooooooooooooo....o.#..ooooo.o
+o.ooooo.........oooooooooooooooooo.........ooooo.o
+o..ooooo........oooooooooooooooooo........ooooo..o
+ooo.ooooo.....oooooooooooooooooooooo.....ooooo.ooo
+oooooooooo...oooooooooooooooooooooooo...oooooooooo
+#oooooooo..oooooooooo#oooooo#oooooooooo..oooooooo#
+##oooooo..ooooooooooo.oooooo.ooooooooooo..oooooo##
+ooooooo.oooooooooooo..oooooo..oooooooooooo.ooooooo
+ooooooo.oooooooooo..oooooooooo..oooooooooo.ooooooo
+oooooo...ooooooo....oooooooooo....ooooooo...oooooo
+ooooo.....oooo.....oooooooooooo.....oooo.....ooooo
+ooooo..#..ooo.....oooooo..oooooo.....ooo..#..ooooo
+ooooooooo.ooo.....ooooo....ooooo.....ooo.ooooooooo
+ooooooooo.o......oooooooooooooooo......o.ooooooooo
+oooooooo.......oooooooooooooooooooo.......oooooooo
+oooooooooo..oo...oooo.oooooo.oooo...oo..oooooooooo
+ooooooo.oooooo........oooooo........oooooo.ooooooo
+oo..oo.oooooooo##.oooooooooooooo.##oooooooo.oo..oo
+.......ooooooo.....oooooooooooo.....ooooooo.......
+.......ooooooo...o.oooooooooooo.o...ooooooo.......
+.A.....oooooo....oooooooooooooooo....oooooo.....a.
+....#...oooo....oooooooooooooooooo....oooo...#....
+........ooo..#.oooooooooooooooooooo.#..ooo........
+..#......oo......oooooooooooooooo......oo......#..
+.........oooooooooooooooooooooooooooooooo.........
+]]>
+    </data>
+</map>

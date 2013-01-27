@@ -51,7 +51,7 @@ battlecode/common/RobotController/setIndicatorString		0	true
 battlecode/common/RobotController/setTeamMemory			15	true
 battlecode/common/RobotController/spawn				25	true
 battlecode/common/RobotController/suicide			0	true
-battlecode/common/RobotController/wearHat			500	true
+battlecode/common/RobotController/wearHat			5000	true
 battlecode/common/RobotController/yield				0	true
 java/lang/Math/IEEEremainder		10		false
 java/lang/Math/abs			5		false

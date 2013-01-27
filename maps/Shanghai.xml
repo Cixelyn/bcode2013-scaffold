@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="69" width="69">
+    <game seed="28828" rounds="2000"/>
+    <symbols>
+        <symbol terrain="LAND" type="TERRAIN" character="."/>
+        <symbol team="NEUTRAL" type="ENCAMPMENT" character="#"/>
+        <symbol team="A" type="HQ" character="A"/>
+        <symbol team="B" type="HQ" character="a"/>
+        <symbol team="NEUTRAL" type="MINE" character="o"/>
+    </symbols>
+    <data>
+<![CDATA[
+oooo.oooooo.#ooooooooooooooooooo..oooooooooooooooooooooooooooooooo...
+oooo..oooooo..ooooo.ooooo.........o.....o.o.............oooooooo...oo
+ooooo.oooooooo.ooo..oooo..oo....oooo.........ooooooooooo..oooooo..ooo
+ooooooo#ooooooo.ooooooooooooo..oooo.#..o.oo.oooooo..oooooo..oo#o.oooo
+oooooo.o.oooo..o............o..........oooo.oooooooo...ooooo.oooooooo
+ooooooo.o.......oo.ooooooooo....o......ooooooooo.o.oooo.o.ooo..oooooo
+o.#ooo..o.A..ooooo.ooooooooo.....oo.ooo.....o....o.ooooooo.ooo..ooooo
+o.#ooo..o....o.oo..o.oooooo..#o..oooooooo......#..oooooooooo.oo..ooo.
+ooooooo..o..oo.oooooo.oooo..o..o..oo.oooooo.o.o.o....oooooooo.oo.ooo.
+oooooo..ooo.o...ooooooooo..oo..o...o..ooooo..ooooo..o.ooooo##.o...oo.
+oooo...oooo.ooo.ooooo..oo.ooo...o..ooooooooo..oo..oo..ooooooo.ooo.oo.
+ooo..oooo.oo.o...oooo.oo.ooooo..oo..o#.oooooo.........o.oo.oo.ooo..o.
+oo....oooooo...o.oooooo.oooooo...oo.oooooooooooo.o..o.o.ooo..ooooooo.
+oo...oooooooo.oooooooo....ooo.o..ooo.oo.oooo.oooo...o..ooooo.ooooo.oo
+oooo.ooooo.#...oooo.o.#ooo#oooo.#oooo..oooooo#oooo.o.o.#ooooo.ooooooo
+oooo.oooooo...ooo..oo.ooooooooo...oo.oo.oooooo##ooooo.#.oooooo.ooo.oo
+oooo.ooooooo.ooooo.o.oooooo.ooo....ooooo..ooooooooo.o...oooooo.oooooo
+oooo.oooooooooo.oo..ooooooooooooo.ooooooooooooooooo.ooo.oooooooooo.oo
+ooooo.oooooooooo.o..oooooooooo.oo..ooooo#.oooooooooooo...ooo#oo..oooo
+ooooo.ooooooooooo..o.ooooooooooooo.ooooooooooooooooo.oo..ooo#oo.ooooo
+ooooo#ooooooo.ooo.oo.oooooooo#oooo.oooooooo.ooo#ooooo.o..oooooo.oo.oo
+oooooo.oo..oooooo.o.o.oooo.....o.o..ooooooooooooooooo.o.o.oooo..ooo.o
+oooooo.ooo...ooo.ooo.......................................ooooooo..o
+oooooo......................o.o.oo....o.oo.o..oooooo.o..o..oooooo..oo
+ooooooo.o....#...oo..o..oo.o..........#.oo..ooooooo..ooooo.ooooo...oo
+oooo.....oooooo.ooo.oo..oo....ooo.ooo.............#.ooo..o.oooo...ooo
+oooooooo.ooooo..oo.oo....#.ooo.o.o.o....o..ooo..oooooooo.ooooo..ooooo
+#ooooooo.oooo..o....oooo......o.oooo....ooo.ooo.oooooooo.oooo..o.o.oo
+oooooooo.ooo..oo.ooooooo..oo.o.o....o.......oo..oooooooo.oooo..o.o.oo
+o.ooooooo.oo.oo..oooooo...oo.ooo........oo...o.oooooooooo.oo.o..ooooo
+..ooooooo.oooo..ooooooo.o.........o##......o..oooooooooo..o..oo.oo#oo
+ooooooooo...o..ooooooo.ooo...o........o...ooo...oo#ooo#oo...oo.oo.#.o
+oooooooo...o..oooo.ooo.oo...o..............o.o.oooooooooo..oooooooooo
+ooooooooo....ooooooooooooo....#............o.o.oo#ooooooo..oo.ooooooo
+oooooooo.o..ooooooooooooo...o.....#.....o...ooooooooooooo..o.oooooooo
+ooooooo.oo..ooooooo#oo.o.o............#....ooooooooooooo....ooooooooo
+oooooooooo..oooooooooo.o.o..............o...oo.ooo.oooo..o...oooooooo
+o.#.oo.oo...oo#ooo#oo...ooo...o........o...ooo.ooooooo..o...ooooooooo
+oo#oo.oo..o..oooooooooo..o......##o.........o.ooooooo..oooo.ooooooo..
+ooooo..o.oo.oooooooooo.o...oo........ooo.oo...oooooo..oo.oo.ooooooo.o
+oo.o.o..oooo.oooooooo..oo.......o....o.o.oo..ooooooo.oo..ooo.oooooooo
+oo.o.o..oooo.oooooooo.ooo.ooo....oooo.o......oooo....o..oooo.ooooooo#
+ooooo..ooooo.oooooooo..ooo..o....o.o.o.ooo.#....oo.oo..ooooo.oooooooo
+ooo...oooo.o..ooo.#.............ooo.ooo....oo..oo.ooo.oooooo.....oooo
+oo...ooooo.ooooo..ooooooo..oo.#..........o.oo..o..oo...#....o.ooooooo
+oo..oooooo..o..o.oooooo..o.oo.o....oo.o.o......................oooooo
+o..ooooooo.......................................ooo.ooo...ooo.oooooo
+o.ooo..oooo.o.o.ooooooooooooooooo..o.o.....oooo.o.o.oooooo..oo.oooooo
+oo.oo.oooooo..o.ooooo#ooo.oooooooo.oooo#oooooooo.oo.ooo.ooooooo#ooooo
+ooooo.oo#ooo..oo.ooooooooooooooooo.ooooooooooooo.o..ooooooooooo.ooooo
+oooo..oo#ooo...oooooooooooo.#ooooo..oo.oooooooooo..o.oooooooooo.ooooo
+oo.oooooooooo.ooo.ooooooooooooooooo.ooooooooooooo..oo.oooooooooo.oooo
+oooooo.oooooo...o.ooooooooo..ooooo....ooo.oooooo.o.ooooo.ooooooo.oooo
+oo.ooo.oooooo.#.ooooo##oooooo.oo.oo...ooooooooo.oo..ooo...oooooo.oooo
+ooooooo.ooooo#.o.o.oooo#oooooo..oooo#.oooo#ooo#.o.oooo...#.ooooo.oooo
+oo.ooooo.ooooo..o...oooo.oooo.oo.ooo..o.ooo....oooooooo.oooooooo...oo
+.ooooooo..ooo.o.o..o.oooooooooooo.oo...oooooo.oooooo.o...oooooo....oo
+.o..ooo.oo.oo.o.........oooooo.#o..oo..ooooo.oo.oooo...o.oo.oooo..ooo
+.oo.ooo.ooooooo..oo..oo..ooooooooo..o...ooo.oo..ooooo.ooo.oooo...oooo
+.oo...o.##ooooo.o..ooooo..ooooo..o...o..oo..ooooooooo...o.ooo..oooooo
+.ooo.oo.oooooooo....o.o.o.oooooo.oo..o..o..oooo.oooooo.oo..o..ooooooo
+.ooo..oo.oooooooooo..#......oooooooo..o#..oooooo.o..oo.o....o..ooo#.o
+ooooo..ooo.ooooooo.o....o.....ooo.oo.....ooooooooo.ooooo..a.o..ooo#.o
+oooooo..ooo.o.oooo.o.ooooooooo......o....ooooooooo.oo.......o.ooooooo
+oooooooo.ooooo...oooooooo.oooo..........o............o..oooo.o.oooooo
+oooo.o#oo..oooooo..oooooo.oo.o..#.oooo..ooooooooooooo.ooooooo#ooooooo
+ooo..oooooo..ooooooooooo.........oooo....oo..oooo..ooo.oooooooo.ooooo
+oo...oooooooo.............o.o.....o.........ooooo.ooooo..oooooo..oooo
+...oooooooooooooooooooooooooooooooo..ooooooooooooooooooo#.oooooo.oooo
+]]>
+    </data>
+</map>

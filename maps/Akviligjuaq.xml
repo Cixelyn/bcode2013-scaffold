@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="25" width="25">
+    <game seed="252525" rounds="2000"/>
+    <symbols>
+        <symbol terrain="LAND" type="TERRAIN" character="."/>
+        <symbol team="NEUTRAL" type="ENCAMPMENT" character="#"/>
+        <symbol team="A" type="HQ" character="a"/>
+        <symbol team="B" type="HQ" character="A"/>
+        <symbol team="NEUTRAL" type="MINE" character="o"/>
+    </symbols>
+    <data>
+<![CDATA[
+oooo.oooooo.ooooooooooooo
+.oooo..#oooo.o#o..oo..oo.
+oo#oooo.ooo.oooo.oooooooo
+o#A#ooooo.ooooo.ooo.ooooo
+oo#oo.o.ooo.ooooooooo#ooo
+ooooooo.oo.oo.o.oo.ooo.oo
+.ooo.oo.oooooooooo.o.ooo.
+oo.ooooooo.o...ooooo.oooo
+oooooo.o.ooooooo.oo.ooooo
+o#oo.ooooooo.ooooo.oooo#o
+ooooo.oooo.ooooo.o.oooooo
+oo.ooooo.oo.oo.oo.oo.oooo
+.ooooo.ooooooooooo.ooooo.
+oooo.oo.oo.oo.oo.ooooo.oo
+oooooo.o.ooooo.oooo.ooooo
+o#oooo.ooooo.ooooooo.oo#o
+ooooo.oo.ooooooo.o.oooooo
+oooo.ooooo...o.ooooooo.oo
+.ooo.o.oooooooooo.oo.ooo.
+oo.ooo.oo.o.oo.oo.ooooooo
+ooo#ooooooooo.ooo.o.oo#oo
+ooooo.ooo.ooooo.ooooo#a#o
+oooooooo.oooo.ooo.oooo#oo
+.oo..oo..o#o.oooo#..oooo.
+ooooooooooooo.oooooo.oooo
+]]>
+    </data>
+</map>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="21" width="70">
+    <game seed="457862" rounds="2000"/>
+    <symbols>
+        <symbol terrain="LAND" type="TERRAIN" character="."/>
+        <symbol team="NEUTRAL" type="MINE" character="o"/>
+        <symbol team="NEUTRAL" type="ENCAMPMENT" character="#"/>
+        <symbol team="A" type="HQ" character="A"/>
+        <symbol team="B" type="HQ" character="a"/>
+    </symbols>
+    <data>
+<![CDATA[
+.o.o.o.....####........................................####.....o.o.o.
+o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o
+.o.o.o..............####......................####..............o.o.o.
+o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o
+.o.o.o...........................####...........................o.o.o.
+o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o
+.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.
+o.o.o.oooooooooooooooooooooooooo.o..o.oooooooooooooooooooooooooo.o.o.o
+.o.o.oooooooooooooooooooooooooooo.oo.oooooooooooooooooooooooooooo.o.o.
+..o.o.ooo..oooooo......ooooooooo.o..o.ooooooooo......oooooo..ooo.o.o..
+A..o.oooo.........oooo...oooooo.o.##.o.oooooo...oooo.........oooo.o..a
+..o.o.ooo.oooooooooooooo...ooooo.o..o.ooooo...oooooooooooooo.ooo.o.o..
+.o.o.oooo..oo...........oo..ooo.o.oo.o.ooo..oo...........oo..oooo.o.o.
+o.o.o.oooo#..#ooooooooo#..#oooooooooooooooo#..#ooooooooo#..#oooo.o.o.o
+.o.o.oooooo##ooooooooooo##oooooooooooooooooo##ooooooooooo##oooooo.o.o.
+o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o
+.o.o.o...........................####...........................o.o.o.
+o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o
+.o.o.o..............####......................####..............o.o.o.
+o.o.o.oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.o
+.o.o.o....####..........................................####....o.o.o.
+]]>
+    </data>
+</map>
